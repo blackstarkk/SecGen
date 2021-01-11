@@ -120,7 +120,7 @@ GEM
       semantic_puppet (~> 1.0)
     rake (12.3.2)
     rdoc (6.1.1)
-    redcarpet (3.4.0)
+    redcarpet (3.5.1)
     rmagick (3.2.0)
     rqrcode (0.10.1)
       chunky_png (~> 1.0)
